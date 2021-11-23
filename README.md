@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, my name is Md Yasen
+#### MERN Developer
+![MERN Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**mdyasenrafe/mdyasenrafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am  Md  Yasen Rafi. I am a  learning Mern Stack Developer. I am working with React, Node.js and MongoDB.I always like to learn new things and have experience with new stuff.I Believe dedication and hardwork success will the outcome
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React, Node, Python 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdyasenrafe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdyasenrafe.netlify.app/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasenrafe)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdyasenrafe&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdyasenrafe)  
+
+![GitHub metrics](https://metrics.lecoq.io/mdyasenrafe)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdyasenrafe)  
+
+![Profile views](https://gpvc.arturio.dev/mdyasenrafe)  
