@@ -11,6 +11,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdyasenrafe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdyasenrafe.netlify.app/)  
+![Profile views](https://gpvc.arturio.dev/mdyasenrafe)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdyasenrafe)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,4 +23,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdyasenrafe)  
 
-![Profile views](https://gpvc.arturio.dev/mdyasenrafe)  
