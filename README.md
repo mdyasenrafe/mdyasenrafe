@@ -5,7 +5,7 @@
 
 Hello, I am  Md  Yasen Rafi. I am a  learning Mern Stack Developer. I am working with React, Node.js and MongoDB.I always like to learn new things and have experience with new stuff.I Believe dedication and hardwork success will the outcome
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Javascript/ REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning React, Node, Python 
 
