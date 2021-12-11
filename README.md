@@ -17,6 +17,4 @@ Skills: Javascript/ REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdyasenrafe&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdyasenrafe)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdyasenrafe)  
