@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Md Yasen
 #### MERN Developer
 
-Hello, I am  Md  Yasen Rafi. I am a  learning Mern Stack Developer. I am working with React, Node.js and MongoDB.I always like to learn new things and have experience with new stuff.I Believe dedication and hardwork success will the outcome
+Hello, I am a skilled and motivated Front End Developer with experience in JavaScript, Typescript, React Native, React.js, HTML5, CSS3, Redux, and Sass. I am comfortable with Node.js, Express.js, MongoDB, Next.js. I have hands-on experience with tools such as VS Code, GitHub, GitLab, NPM, Yarn, Chrome Dev tool, Netlify, Heroku, and Firebase.
 
 Skills: Javascript/ REACT / JS / HTML / CSS
 
